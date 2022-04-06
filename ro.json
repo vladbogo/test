@@ -1,1 +1,4 @@
-{}
+{
+    "ER_NO": "Nu\n",
+    "ER_CANT_CREATE_FILE": "Nu se poate crea fisierul %-.200s' (Eroare: %M)"
+}
