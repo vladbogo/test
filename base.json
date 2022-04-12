@@ -1,5 +1,6 @@
 {
     "ER_NO": "No\n",
     "ER_CANT_CREATE_FILE": "Can't create file '%-.200s' (errno: %M)",
-    "ER_YES": "Yes"
+    "ER_YES": "Yes",
+    "ER_CANT_CREATE_TABLE": "Can't create table %`s.%`s (errno: %M)"
 }
