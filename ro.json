@@ -1,5 +1,6 @@
 {
     "ER_NO": "Nu\n",
     "ER_CANT_CREATE_FILE": "Nu se poate crea fisierul %-.200s' (Eroare: %M)",
-    "ER_YES": "Da"
+    "ER_YES": "Da",
+    "ER_CANT_CREATE_TABLE": "Nu se poate crea tabelul %`s.%`s (errno: %M)"
 }
