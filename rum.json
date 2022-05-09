@@ -9,7 +9,7 @@
     "ER_DB_DROP_DELETE": "\"Eroare dropuind baza de date (nu pot sa sterg '%-.192s', Eroare: %M)\"",
     "ER_DB_DROP_RMDIR": "\"Eroare dropuind baza de date (nu pot sa rmdir '%-.192s', Eroare: %M)\"",
     "ER_CANT_DELETE_FILE": "\"Eroare incercind sa delete '%-.192s' (Eroare: %M)\"",
-    "ER_CANT_FIND_SYSTEM_REC": "\"Nu pot sa citesc cimpurile in tabla de system (system table)\"",
+    "ER_CANT_FIND_SYSTEM_REC": "\"Nu pot sa citesc cimpurile din tabla de sistem (system table)\"",
     "ER_CANT_GET_STAT": "\"Nu pot sa obtin statusul lui '%-.200s' (Eroare: %M)\"",
     "ER_CANT_GET_WD": "\"Nu pot sa obtin directorul current (working directory) (Eroare: %M)\"",
     "ER_CANT_LOCK": "\"Nu pot sa lock fisierul (Eroare: %M)\"",
