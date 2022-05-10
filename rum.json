@@ -180,5 +180,6 @@
     "ER_CHECK_NO_SUCH_TABLE 42000": "“Nu se poate deschide tabelul”",
     "ER_ERROR_DURING_COMMIT": "“A apărut eroarea %M in timpul unui COMMIT”",
     "ER_ILLEGAL_HA": "Stocare",
-    "ER_CANT_DO_THIS_DURING_AN_TRANSACTION 25000": "“Nu ești autorizat sa execuți aceasta comanda intr-o tranzactie.”"
+    "ER_CANT_DO_THIS_DURING_AN_TRANSACTION 25000": "“Nu ești autorizat sa execuți aceasta comanda intr-o tranzactie.”",
+    "ER_HASHCHK": "Hash check"
 }
