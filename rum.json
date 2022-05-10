@@ -162,7 +162,7 @@
     "ER_DUP_UNIQUE 23000": "\"Nu pot scrie pe hard-drive, din cauza constraintului unic (unique constraint) pentru tabela '%-.192s'\"",
     "ER_BLOB_KEY_WITHOUT_LENGTH 42000": "\"Coloana BLOB '%-.192s' este folosita in specificarea unei chei fara ca o lungime de cheie sa fie folosita\"",
     "ER_PRIMARY_CANT_HAVE_NULL 42000": "\"Toate partile unei chei primare (PRIMARY KEY) trebuie sa fie NOT NULL; Daca aveti nevoie de NULL in vreo cheie, folositi UNIQUE in schimb\"",
-    "ER_TOO_MANY_ROWS 42000": "\"Resultatul constista din mai multe linii\"",
+    "ER_TOO_MANY_ROWS 42000": "\"Rezultatul consista din mai multe linii\"",
     "ER_REQUIRES_PRIMARY_KEY 42000": "\"Aceast tip de tabela are nevoie de o cheie primara\"",
     "ER_NO_RAID_COMPILED": "\"Aceasta versiune de MariaDB, nu a fost compilata cu suport pentru RAID\"",
     "ER_CHECK_NOT_IMPLEMENTED 42000": "\"The handler for the table doesn't support %s\"",
@@ -176,5 +176,9 @@
     "ER_CANNOT_GRANT_ROLE": "\"Rolul '%s' nu poate fi acordat catre: %s\"",
     "ER_CANNOT_REVOKE_ROLE": "\"Rolul '%s' nu poate fi revocat de la: %s\"",
     "ER_ACCOUNT_HAS_BEEN_LOCKED": "\"Acces refuzat, acest cont este blocat\"",
-    "ER_LOAD_INFILE_CAPABILITY_DISABLED": "\"Comanda folosită nu este permisă deoarece clientul sau serverul MariaDB a dezactivat această capabilitate\""
+    "ER_LOAD_INFILE_CAPABILITY_DISABLED": "\"Comanda folosită nu este permisă deoarece clientul sau serverul MariaDB a dezactivat această capabilitate\"",
+    "ER_CHECK_NO_SUCH_TABLE 42000": "“Nu se poate deschide tabelul”",
+    "ER_ERROR_DURING_COMMIT": "“A apărut eroarea %M in timpul unui COMMIT”",
+    "ER_ILLEGAL_HA": "Stocare",
+    "ER_CANT_DO_THIS_DURING_AN_TRANSACTION 25000": "“Nu ești autorizat sa execuți aceasta comanda intr-o tranzactie.”"
 }
